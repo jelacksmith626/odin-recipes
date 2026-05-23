@@ -1,0 +1,31 @@
+body {
+    background-color: #fdf6ec;
+    color: #3e2f26;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+}
+
+header {
+    background-color: #a44a3f;
+    color: white;
+    padding: 2px;
+    text-align: center;
+}
+
+a {
+    color: #8b3d2f;
+}
+
+a:hover{
+    color: #c75c4d;
+}
+
+div {
+    margin: 0 auto;
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+}
